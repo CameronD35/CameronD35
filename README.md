@@ -1,4 +1,4 @@
-- What's poppin', I don't know what to add here but I'll get to it eventually...
+- Hello!
 
 <!---
 CameronD35/CameronD35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
